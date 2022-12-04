@@ -1,0 +1,7 @@
+body{
+    background-color: bisque;
+    margin: 50px;
+}
+a:hover{
+    background-color: red;
+}

@@ -1,0 +1,8 @@
+table {
+    text-align: center;
+    border: 4px black double;
+    border-spacing: 0;
+    box-shadow: #6a3d37 5px 5px 6px;
+    border-radius: 12px;
+    background: #b59d5c;
+}
